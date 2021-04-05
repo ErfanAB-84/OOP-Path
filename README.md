@@ -2,7 +2,9 @@
 
 this path for basics learn object oriented programming
 
+# see file
 [see notebook](https://github.com/Mehranalam/OOP-in-python/blob/main/OOPinpython.ipynb)
 
 
-#Distro-MehranAlamBeigi
+for any person:)
+
