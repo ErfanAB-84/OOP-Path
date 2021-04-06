@@ -19,3 +19,12 @@ class Game:
                 print('{}|'.format(self.current_state[i][j]), end=" ")
             print()
         print()
+    
+    def is_valid(self, px, py):
+        if px < 0 or px > 2 or py < 0 or py > 2:
+            return False
+        elif self.current_state[px][py] != '.':
+            return False
+        else:
+            return True
+    
