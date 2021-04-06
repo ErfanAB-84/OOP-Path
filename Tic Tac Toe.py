@@ -28,3 +28,40 @@ class Game:
         else:
             return True
     
+        
+    # Checks if the game has ended and returns the winner in each case
+    def is_end(self):
+        # Vertical win
+        for i in range(0, 3):
+            if (self.current_state[0][i] != '.' and
+                self.current_state[0][i] == self.current_state[1][i] and
+                self.current_state[1][i] == self.current_state[2][i]):
+                return self.current_state[0][i]
+
+        # Horizontal win
+        for row in self.current_state:
+            if len(set(row))==1:
+                if row[0] != '.':
+                    return row[0]
+
+
+        # Main diagonal win
+        if len(set([self.current_state[i][i] for i in range(len(self.current_state))]))==1:
+            if self.current_state[0][0] != '.':
+                return self.current_state[0][0]
+
+        # Second diagonal win
+        if len(set([self.current_state[i][len(self.current_state)-i-1] for i in range(len(self.current_state))]))==1:
+            if self.current_state[0][len(self.current_state)-1] != '.':
+                return self.current_state[0][len(self.current_state)-1]
+
+        # Is whole current_state full?
+        sumElemnts = 0
+        for i in range(3):
+            sumElemnts+=self.current_state[i].count('.')
+        if sumElemnts > 1:
+            return None
+
+        # It's a tie!
+        return '.'
+    
