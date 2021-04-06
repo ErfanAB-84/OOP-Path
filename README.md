@@ -4,7 +4,7 @@ this path for basics learn object oriented programming
 
 # see file
 
-[**This is bold text**](https://github.com/Mehranalam/OOP-in-python/blob/main/OOPinpython.ipynb)
+[**SEE NOTEBOKK**](https://github.com/Mehranalam/OOP-in-python/blob/main/OOPinpython.ipynb)
 
 ![screen shot from this notebook](https://github.com/Mehranalam/OOP-in-python/blob/main/Screenshot%20from%202021-04-06%2010-35-01.png?raw=true)
 
