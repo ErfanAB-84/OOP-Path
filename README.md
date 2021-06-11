@@ -20,7 +20,6 @@ this small Program implements, in **Python 3**,the **minimax** algorithm and OOP
 for any person:)
 
 # CONTECT
-Y-mail:[SHOW](mehranalambeigi@yahoo.com)
-# DONATE
-DONATE : [SHOW](https://paypal.me/mehranalambeigi) Doller [SHOW](http://idpay.ir/mehranalam) Rial
+Y-mail:mehranalambeigi@yahoo.com
 
+**Enjoy ;)**
