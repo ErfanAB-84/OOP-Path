@@ -20,8 +20,7 @@ this small Program implements, in **Python 3**,the **minimax** algorithm and OOP
 for any person:)
 
 # CONTECT
-TWITTER:[SHOW](https://twitter.com/mehranalambeigi)
-
+Y-mail:[SHOW](mehranalambeigi@yahoo.com)
 # DONATE
 DONATE : [SHOW](https://paypal.me/mehranalambeigi) Doller [SHOW](http://idpay.ir/mehranalam) Rial
 
