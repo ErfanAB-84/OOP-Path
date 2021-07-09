@@ -1,6 +1,9 @@
 # OOP-in-python
 
-this path for basics learn object oriented programming
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/Interstellar-destaque.jpg">
+  <p>this path for basics learn object oriented programming</p>
+  </div>
 
 # Tic Tac Toe (xoxo) in Python
 
