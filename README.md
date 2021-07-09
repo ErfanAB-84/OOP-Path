@@ -3,6 +3,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/Interstellar-destaque.jpg">
   <p>this path for basics learn object oriented programming</p>
+  <br>
+  a href="https://github.com/mehranalam/Fibonacci-SEN" target="blank">
+<img src="https://img.shields.io/github/stars/mehranalam/oop-in-python?style=flat-square" alt="Repo stars"/>
+</a>
+  <a href="https://github.com/mehranalam/oop-in-python/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/mehranalam/oop-in-python?style=flat-square" alt="Repo license" />
+</a>
+  <img src="https://img.shields.io/github/languages/code-size/mehranalam/oop-in-python?style=flat-square">
+  <img src="https://img.shields.io/github/forks/mehranalam/oop-in-python?style=flat-square">
   </div>
 
 # Tic Tac Toe (xoxo) in Python
