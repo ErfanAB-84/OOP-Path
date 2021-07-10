@@ -425,4 +425,5 @@ class Main {
 <p>I hope this <b>Repository</b> will help you think of the concepts of object oriented programming And what should we use them at all ;),</p>
   <img src="https://img.shields.io/twitter/follow/mehranalambeigi?color=blue&style=for-the-badge">
   <img src="https://img.shields.io/github/followers/Mehranalam?color=black&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/mehranalam/oop-path?color=orange&style=for-the-badge">
   </div>
