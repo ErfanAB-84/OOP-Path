@@ -28,7 +28,52 @@ this small Program implements, in **Python 3**,the **minimax** algorithm and OOP
 </div>
 
 # More information
-  
+
+### Object
+
+#### Py
+
+The **object** is essential to work with the class attributes. Instantiate is a term used when we create the object of any class, and the instance is also referred to as an object. The object is created using the class name. The syntax is given below.
+
+Template :
+
+```rust
+<object-name> = <class-name>(<arguments>)
+```
+Example :
+
+```python
+
+class Person:         
+    name = "John"      
+    age = 24  
+    def display (self):      
+        print("Age: %d \nName: %s"%(self.age,self.name))      
+# Creating a emp instance of Employee class    
+per = Person()      
+per.display()
+
+```
+
+#### java
+
+A Java **object** is a combination of data and procedures working on the available data. An object has a state and behavior.
+
+The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created from templates known as classes.
+
+```java
+
+public class Main {
+  int x = 5;
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    System.out.println(myObj.x);
+  }
+}
+
+```
+
 ### Class
 
 #### Py
