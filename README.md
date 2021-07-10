@@ -255,3 +255,67 @@ class Dog extends Animal {
 }
 
 ```
+
+## abstract
+
+#### Python
+
+An **abstract** class can be considered as a blueprint for other classes. It allows you to create a set of methods that must be created within any child classes built from the abstract class. A class which contains one or more abstract methods is called an abstract class. An abstract method is a method that has a declaration but does not have an implementation. While we are designing large functional units we use an abstract class. When we want to provide a common interface for different implementations of a component, we use an abstract class.
+
+
+```python
+
+from abc import ABC, abstractmethod
+class Animal(ABC):
+ 
+    def move(self):
+        pass
+ 
+class Human(Animal):
+ 
+    def move(self):
+        print("I can walk and run")
+ 
+ 
+```
+
+#### java
+
+An abstract class is a class that is declared ``abstract``—it may or may not include abstract methods. Abstract classes cannot be instantiated, but they can be subclassed.
+
+An abstract method is a method that is declared without an implementation
+
+```java
+
+abstract class GraphicObject {
+    int x, y;
+    ...
+    void moveTo(int newX, int newY) {
+        ...
+    }
+    abstract void draw();
+    abstract void resize();
+}
+
+```
+Fahter :)
+
+```java
+
+class Circle extends GraphicObject {
+    void draw() {
+        ...
+    }
+    void resize() {
+        ...
+    }
+}
+class Rectangle extends GraphicObject {
+    void draw() {
+        ...
+    }
+    void resize() {
+        ...
+    }
+}
+```
