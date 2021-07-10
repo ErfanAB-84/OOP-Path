@@ -423,5 +423,5 @@ class Main {
   <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/python-vs-java-.png">
   
 <p>I hope this <b>Repository</b> will help you think of the concepts of object oriented programming And what should we use them at all ;),</p>
-  <img src="https://img.shields.io/twitter/follow/mehranalambeigi?style=social">
+  <img src="https://img.shields.io/twitter/follow/mehranalambeigi?color=blue&style=for-the-badge">
   </div>
