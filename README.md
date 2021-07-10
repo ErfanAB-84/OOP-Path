@@ -155,11 +155,6 @@ d.speak()
 
 **Inheritance** can be defined as the process where one class acquires the properties (methods and fields) of another. With the use of inheritance the information is made manageable in a hierarchical order.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/1_CaTNbDiboMzEXuBB2AaDjg.png">
-  <p>:)</p>
-</div>
-
 The class which inherits the properties of other is known as subclass (derived class, child class) and the class whose properties are inherited is known as superclass (base class, parent class).
 
 ```java
@@ -332,3 +327,77 @@ class Rectangle extends GraphicObject {
 ```
 
 Child Class :)
+
+## Encapsulation
+
+#### Python
+The process of wrapping up variables and methods into a single entity is known as **Encapsulation**. It is one of the underlying concepts in object-oriented programming (OOP). It acts as a protective shield that puts restrictions on accessing variables and methods directly, and can prevent accidental or unauthorized modification of data. Encapsulation also makes objects into more self-sufficient, independently functioning pieces.
+
+```python
+
+class Robot(object):
+   def __init__(self):
+      self.__version = 22
+
+   def getVersion(self):
+      print(self.__version)
+
+   def setVersion(self, version):
+      self.__version = version
+
+obj = Robot()
+obj.getVersion()
+obj.setVersion(23)
+obj.getVersion()
+print(obj.__version)
+
+```
+
+- Getter Func
+- Setter Func
+
+#### java
+
+**Encapsulation** is one of the key features of object-oriented programming. Encapsulation refers to the bundling of fields and methods inside a single class.
+
+It prevents outer classes from accessing and changing fields and methods of a class. This also helps to achieve data hiding.
+
+
+- Getter Func
+- Setter Func
+
+```java
+
+class Person {
+
+  // private field
+  private int age;
+
+  // getter method
+  public int getAge() {
+    return age;
+  }
+
+  // setter method
+  public void setAge(int age) {
+    this.age = age;
+  }
+}
+
+class Main {
+  public static void main(String[] args) {
+
+    // create an object of Person
+    Person p1 = new Person();
+
+    // change age using setter
+    p1.setAge(24);
+
+    // access age using getter
+    System.out.println("My age is " + p1.getAge());
+  }
+}
+
+```
+
+I hope this Repository will help you think of the concepts of object oriented programming And what should we use them at all ;)
