@@ -298,7 +298,7 @@ abstract class GraphicObject {
 }
 
 ```
-Fahter :)
+Fahter Class :)
 
 ```java
 
@@ -319,3 +319,5 @@ class Rectangle extends GraphicObject {
     }
 }
 ```
+
+Child Class :)
