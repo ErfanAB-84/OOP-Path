@@ -11,18 +11,6 @@
   <img src="https://img.shields.io/github/forks/mehranalam/oop-in-python?style=flat-square">
   </div>
   
-●[Project This Repo](https://github.com/Mehranalam/OOP-Path#project-this-repo)
-    ●[Tic Tac Toe](https://github.com/Mehranalam/OOP-Path#tic-tac-toe-(xoxo)-in-python)
-    ●[Fibonacci](https://github.com/Mehranalam/OOP-Path#fibonacci)
-●[OOP Structure](https://github.com/Mehranalam/OOP-Path#oop-structure)
-●[More Information](https://github.com/Mehranalam/OOP-Path#more-information)
-    ●[Object](https://github.com/Mehranalam/OOP-Path#object)
-    ●[Class](https://github.com/Mehranalam/OOP-Path#class)
-    ●[inheritanc](https://github.com/Mehranalam/OOP-Path#inheritanc)
-    ●[pholymorphism](https://github.com/Mehranalam/OOP-Path#pholymorphism)
-    ●[abstract](https://github.com/Mehranalam/OOP-Path#abstract)
-    ●[Encapsulation](https://github.com/Mehranalam/OOP-Path#encapsulation)
-  
 ## Project this Repo
 
 ### Tic Tac Toe (xoxo) in Python
