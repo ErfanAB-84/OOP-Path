@@ -200,3 +200,58 @@ public class Sub_class extends Super_class {
 }
 
 ```
+
+## Polymorphism
+
+#### Python
+
+**Polymorphism** means multiple forms. In python we can find the same operator or function taking multiple forms. It also useful in creating different classes which will have class methods with same name. That helps in re using a lot of code and decreases code complexity. Polymorphism is also linked to inheritance as we will see in some examples below.
+
+```python
+
+class Rectangle:
+   def __init__(self, length, breadth):
+      self.l = length
+      self.b = breadth
+   def perimeter(self):
+      return 2*(self.l + self.b)
+   def area(self):
+      return self.l * self.b
+
+class Circle:
+   def __init__(self, radius):
+      self.r = radius
+   def perimeter(self):
+      return 2 * pi * self.r
+   def area(self):
+      return pi * self.r ** 2
+
+```
+
+#### java
+
+**Polymorphism** is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
+
+Any Java object that can pass more than one IS-A test is considered to be polymorphic. In Java, all Java objects are polymorphic since any object will pass the IS-A test for their own type and for the class Object.
+
+```java
+
+class Animal {
+  public void animalSound() {
+    System.out.println("The animal makes a sound");
+  }
+}
+
+class Pig extends Animal {
+  public void animalSound() {
+    System.out.println("The pig says: wee wee");
+  }
+}
+
+class Dog extends Animal {
+  public void animalSound() {
+    System.out.println("The dog says: bow wow");
+  }
+}
+
+```
