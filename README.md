@@ -31,7 +31,7 @@ this small Program implements, in **Python 3**,the **minimax** algorithm and OOP
 
 ### Object
 
-#### Py
+#### Python
 
 The **object** is essential to work with the class attributes. Instantiate is a term used when we create the object of any class, and the instance is also referred to as an object. The object is created using the class name. The syntax is given below.
 
@@ -76,7 +76,7 @@ public class Main {
 
 ### Class
 
-#### Py
+#### Python
 
 **Classes** provide a means of bundling data and functionality together. Creating a new class creates a new type of object, allowing new instances of that type to be made. Each class instance can have attributes attached to it for maintaining its state. Class instances can also have methods (defined by its class) for modifying its state.
 
@@ -123,6 +123,80 @@ class Bicycle {
              cadence + " speed:" + 
              speed + " gear:" + gear);
     }
+}
+
+```
+
+
+### Inheritance
+
+#### Python
+
+**Inheritance** is an important aspect of the object-oriented paradigm. Inheritance provides code reusability to the program because we can use an existing class to create a new class instead of creating it from scratch.
+
+In inheritance, the child class acquires the properties and can access all the data members and functions defined in the parent class. A child class can also provide its specific implementation to the functions of the parent class. In this section of the tutorial, we will discuss inheritance in detail.
+
+```python
+
+class Animal:  
+    def speak(self):  
+        print("Animal Speaking")  
+#child class Dog inherits the base class Animal  
+class Dog(Animal):  
+    def bark(self):  
+        print("dog barking")  
+d = Dog()  
+d.bark()  
+d.speak()
+
+```
+
+#### java
+
+**Inheritance** can be defined as the process where one class acquires the properties (methods and fields) of another. With the use of inheritance the information is made manageable in a hierarchical order.
+
+The class which inherits the properties of other is known as subclass (derived class, child class) and the class whose properties are inherited is known as superclass (base class, parent class).
+
+```java
+
+class Super_class {
+   int num = 20;
+
+   // display method of superclass
+   public void display() {
+      System.out.println("This is the display method of superclass");
+   }
+}
+
+public class Sub_class extends Super_class {
+   int num = 10;
+
+   // display method of sub class
+   public void display() {
+      System.out.println("This is the display method of subclass");
+   }
+
+   public void my_method() {
+      // Instantiating subclass
+      Sub_class sub = new Sub_class();
+
+      // Invoking the display() method of sub class
+      sub.display();
+
+      // Invoking the display() method of superclass
+      super.display();
+
+      // printing the value of variable num of subclass
+      System.out.println("value of the variable named num in sub class:"+ sub.num);
+
+      // printing the value of variable num of superclass
+      System.out.println("value of the variable named num in super class:"+ super.num);
+   }
+
+   public static void main(String args[]) {
+      Sub_class obj = new Sub_class();
+      obj.my_method();
+   }
 }
 
 ```
