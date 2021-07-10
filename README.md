@@ -22,3 +22,8 @@ this small Program implements, in **Python 3**,the **minimax** algorithm and OOP
 * The Wikipedia page : [**Tic Tac Toe**](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 ## OOP structure
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/20210710_113856.jpg">
+
+
