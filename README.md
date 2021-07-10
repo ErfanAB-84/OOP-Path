@@ -252,9 +252,15 @@ class Pig extends Animal {
     System.out.println("The pig says: wee wee");
   }
 }
+```
 
+- this override from father class
+
+```java
 class Dog extends Animal {
+  @override
   public void animalSound() {
+    super.animalSound();
     System.out.println("The dog says: bow wow");
   }
 }
