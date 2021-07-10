@@ -17,8 +17,6 @@
 
 this small Program implements, in **Python 3**,the **minimax** algorithm and OOP(object-oriented programming) for Tic Tac Toe 
 
-### References
-
 * The Wikipedia page : [**MinMax**](https://en.wikipedia.org/wiki/Minimax)
 
 * The Wikipedia page : [**Tic Tac Toe**](https://en.wikipedia.org/wiki/Tic-tac-toe)
@@ -27,11 +25,11 @@ this small Program implements, in **Python 3**,the **minimax** algorithm and OOP
 
 Sequence of Fibonacci numbers and addition of even numbers
 
-### References
-
 * The Wikipadia page : [**Fibonacci**](https://en.wikipedia.org/wiki/Fibonacci_number)
 
 * The Wikipadia page : [**Even Number**](https://simple.wikipedia.org/wiki/Even_number)
+
+
 
 ## OOP structure
 
