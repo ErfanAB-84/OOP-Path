@@ -11,14 +11,14 @@
   <img src="https://img.shields.io/github/forks/mehranalam/oop-in-python?style=flat-square">
   </div>
 
-# Tic Tac Toe (xoxo) in Python
+### Tic Tac Toe (xoxo) in Python
 
 this small Program implements, in **Python 3**,the **minimax** algorithm and OOP(object-oriented programming) for Tic Tac Toe 
 
-# References
+### References
 
 * The Wikipedia page : [**MinMax**](https://en.wikipedia.org/wiki/Minimax)
 
 * The Wikipedia page : [**Tic Tac Toe**](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
-**Enjoy ;)**
+## OOP structure
