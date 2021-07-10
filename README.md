@@ -29,7 +29,7 @@ this small Program implements, in **Python 3**,the **minimax** algorithm and OOP
 
 # More information
 
-### Object
+## Object
 
 #### Python
 
@@ -74,7 +74,7 @@ public class Main {
 
 ```
 
-### Class
+## Class
 
 #### Python
 
@@ -128,7 +128,7 @@ class Bicycle {
 ```
 
 
-### Inheritance
+## Inheritance
 
 #### Python
 
