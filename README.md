@@ -1,4 +1,4 @@
-# OOP-in-python
+# OOP-Path
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/Interstellar-destaque.jpg">
