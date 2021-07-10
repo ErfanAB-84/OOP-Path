@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/forks/mehranalam/oop-in-python?style=flat-square">
   </div>
   
-## project this Repo
+## Project this Repo
 
 ### Tic Tac Toe (xoxo) in Python
 
