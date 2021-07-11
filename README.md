@@ -234,6 +234,10 @@ public class Sub_class extends Super_class {
 
 ## Polymorphism
 
+<div align="center">
+  <img src="https://cdn.askpython.com/wp-content/uploads/2019/12/Polymorphism-in-Python.png">
+  </div>
+
 #### Python
 
 **Polymorphism** means multiple forms. In python we can find the same operator or function taking multiple forms. It also useful in creating different classes which will have class methods with same name. That helps in re using a lot of code and decreases code complexity. Polymorphism is also linked to inheritance as we will see in some examples below.
