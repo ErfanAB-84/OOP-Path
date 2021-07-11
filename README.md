@@ -369,6 +369,10 @@ Child Class :)
 
 ## Encapsulation
 
+<div align="center">
+  <img src="https://javatutorial.net/wp-content/uploads/2017/10/java-encapsulation.png">
+  </div>
+
 #### Python
 The process of wrapping up variables and methods into a single entity is known as **Encapsulation**. It is one of the underlying concepts in object-oriented programming (OOP). It acts as a protective shield that puts restrictions on accessing variables and methods directly, and can prevent accidental or unauthorized modification of data. Encapsulation also makes objects into more self-sufficient, independently functioning pieces.
 
@@ -452,3 +456,5 @@ class Main {
 ## license
 
 Permissions of this weak copyleft license are conditioned on making available source code of **licensed** files and modifications of those files under the same license (or in certain cases, one of the **GNU licenses**). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
+
+🎡Picture source : [**google.com**](https://google.com)
