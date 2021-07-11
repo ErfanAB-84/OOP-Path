@@ -51,7 +51,7 @@ Sequence of Fibonacci numbers and addition of even numbers
 ## Object
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/BannerOOPWeakness.jpg">
+  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/1_gjyhqdy5jXjd7L0ILzu5qA.jpeg.jpg">
   </div>
 
 #### Python
