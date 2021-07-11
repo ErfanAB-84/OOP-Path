@@ -50,6 +50,10 @@ Sequence of Fibonacci numbers and addition of even numbers
 
 ## Object
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/BannerOOPWeakness.jpg">
+  </div>
+
 #### Python
 
 The **object** is essential to work with the class attributes. Instantiate is a term used when we create the object of any class, and the instance is also referred to as an object. The object is created using the class name. The syntax is given below.
