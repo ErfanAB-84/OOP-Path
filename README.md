@@ -158,7 +158,7 @@ class Bicycle {
 ## Inheritance
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/BannerOOPWeakness.jpg">
+  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/typesofinheritance.jpg">
   </div>
 
 #### Python
