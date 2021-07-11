@@ -149,6 +149,10 @@ class Bicycle {
 
 ## Inheritance
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/BannerOOPWeakness.jpg">
+  </div>
+
 #### Python
 
 **Inheritance** is an important aspect of the object-oriented paradigm. Inheritance provides code reusability to the program because we can use an existing class to create a new class instead of creating it from scratch.
